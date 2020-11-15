@@ -6,7 +6,7 @@ Created in Unity Ver 2019.2.18f1
 
 To save github's storage, used gitignore = "Unity". And so there is no 'apk' file
 
-Playable with Oculus Quest - **Open "360" Scene in "360Project" folder inside "Asset" = Asset -> 360Project -> 360 Scene**
+Playable with Oculus Quest - **Open "360" Scene in "360Project" folder inside "Assets" = Assets -> 360Project -> 360 Scene**
 
 
 Mainly used C# and Skybox assets
